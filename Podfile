@@ -7,7 +7,7 @@ target 'swift-github-repo-search-lab' do
   inherit! :search_paths
 
   # Pods for swift-github-repo-search-lab
-  pod 'Alamofire', '~> 4.0'
+  pod 'Alamofire', '~> 4.4'
   
   target 'swift-github-repo-search-labTests' do
       inherit! :search_paths
